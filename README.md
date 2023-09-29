@@ -7,7 +7,7 @@
 This repository was created by UBC graduate students as part of a course assignment for STAT 545A (Exploratory Data Analysis). The primary objective of the assignment is to familiarize graduate students (us - Xin (Max), Zefan, Catherine, and Sidney - Hi!🤗) with GitHub functionalities (such as pull requests, Github issues, _this README file_ 😉, etc.) as such, **readers will find the following documents** / our learning tools **in the main directory:**
 
 1. _TEAMWORK.md_ 
-This is a markdown file that serves as a "contract" for our group members to keep us accountable for completing our own work. It largely describes how we divided up the tasks that needed to be completed for the earliest parts (those required for 'milestone #1') of this project, when we aimed to complete everything, and how often we aim to communicate with each other. There is also no code to be run in this file. 
+This is a markdown file that serves as a "contract" for our group members to keep us accountable for completing our own work. It largely describes how we divided up the tasks that needed to be completed for the earliest parts (those required for 'milestone #1') of this project, when we aimed to complete everything, and how often we aim to communicate with each other. There is no code to be run in this file. 
 
 2. _Troubleshooting-1.Rmd_ 
 This is an **R** markdown file. It actually has some code. Herein readers will find erroneous R code that us graduate students have been assigned to fix, as well as our fixes 💅 for the faulty code. You can download this .Rmd file and open it in RStudio on your local device, or copy the text and paste it into an open/new R markdown file on your local device to run it.
